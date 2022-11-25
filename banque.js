@@ -32,6 +32,6 @@ function alertIsTrue(verifLengthcompte,verifLengthsomme){
     if(compteTF==true &&sommeTF==true){
         return alert ("La somme de XXX à bien été déposée.");
     }else{
-        return alert ("Erreur sur le champs compte ou dans le compte somme");
+        return alert ("Erreur sur le champs compte ou dans le compte somme.");
     }
 }
